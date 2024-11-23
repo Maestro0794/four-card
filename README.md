@@ -1,6 +1,6 @@
-# Frontend Mentor - Product Preview Card Component Solution
+# Frontend Mentor - Four Card Feature Section Solution
 
-This is a solution to the [Product Preview Card Component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Four Card Feature Section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK/hub). Frontend Mentor challenges help you improve your coding skills by building realistic projects..
 
 ---
 
@@ -13,8 +13,6 @@ This is a solution to the [Product Preview Card Component challenge on Frontend 
 - [My Process](#my-process)
   - [Built With](#built-with)
   - [What I Learned](#what-i-learned)
-  - [Continued Development](#continued-development)
-  - [Useful Resources](#useful-resources)
 - [Author](#author)
 
 ---
@@ -56,7 +54,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Media Queries
 - [Frontend Mentor Starter Template](https://www.frontendmentor.io)
 
 ---
@@ -69,7 +66,6 @@ Through this challenge, I improved my ability to:
    - Utilized media queries to create a responsive layout for both desktop and mobile views.
 
 2. **CSS Best Practices:**
-   - Made use of CSS variables for better maintainability of the color palette.
    - Used modern layout techniques such as Flexbox for alignment and spacing.
 
 ---
